@@ -1,0 +1,48 @@
+.container-header{
+    background-color: darkblue;
+    color: white;
+    height: 10vh;
+    width: 100vw;
+    text-align: center;
+}
+/**/
+.container-header__menu{
+    width: 100%;
+    font-size: 20px;
+    margin-top: 1px;
+}
+.container-header__menu a{
+    color: aliceblue;
+    text-decoration: none;
+    height: 50px;
+    width: 150px;
+    background-color: aqua;
+    display: inline-block;
+    text-align: center;
+}
+.container-header__menu a span{
+    display:inline-block;
+    margin: 16px auto;
+}
+
+.container-main{
+    height: 80vh;
+
+}
+.container-footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: blueviolet;
+}
+
+.sec-left{
+    display: flex;
+
+}
+
+.sec-center{
+}
+
+.sec-right{
+    
+}
