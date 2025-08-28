@@ -49,6 +49,9 @@
 }
 
 .sec-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 20%;
     height: 100%;
     background-color: bisque;
